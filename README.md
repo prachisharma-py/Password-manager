@@ -4,6 +4,12 @@ A secure, efficient, and beginner-friendly **Password Manager** built with **Pyt
 
 ---
 
+## 📷 Demo
+
+![Pssword Manager](assets/password-manager.gif)
+
+---
+
 ## 📌 Overview
 
 Managing passwords can be tedious and unsafe if not done properly. This **Password Manager** solves that problem by:
